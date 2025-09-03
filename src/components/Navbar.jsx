@@ -6,7 +6,7 @@ export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="flex items-center justify-between p-4 bg-blue-600 text-white shadow">
+    <nav className="flex items-center justify-between p-4 bg-blue-600 text-white shadow fixed top-0 left-0 w-full z-50">
       {/* Left side: Logo */}
       <div className="flex items-center gap-26">
         <h1 className="text-xl font-bold">RenterApp</h1>
