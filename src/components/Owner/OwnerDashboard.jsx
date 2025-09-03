@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Overview from "./Overview";
 import MyPropertyTab from "./Tabs/MyPropertyTab";
-import AgreementTab from "./Tabs/Agreementtab";
+import AgreementTab from "./Tabs/AgreementTab";
 import PayoutTab from "./Tabs/PayoutTab";
 import MaintenanceTab from "./Tabs/MaintenanceTab";
 
