@@ -20,7 +20,7 @@ export default function Profile() {
   return (
     <>
     <Navbar/>
-    <div className="p-4 bg-gray-50 min-h-[93vh] flex flex-col">
+    <div className="p-4 bg-gray-50 min-h-[93vh] flex flex-col mt-14">
       {/* Top Card */}
       <div className="bg-white rounded-2xl shadow-md p-6 flex items-center gap-4 mb-6">
         <Avatar className="h-16 w-16 text-lg font-bold bg-indigo-500 text-white">
