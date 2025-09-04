@@ -9,7 +9,7 @@ export default function Navbar() {
     <nav className="flex items-center justify-between p-4 bg-blue-600 text-white shadow fixed top-0 left-0 w-full z-50">
       {/* Left side: Logo */}
       <div className="flex items-center gap-16">
-        <h1 className="text-xl font-bold">Nest-O-Rent</h1>
+        <h1 className="text-xl font-bold">Nesto Rent</h1>
         <div className="flex gap-1 cursor-pointer min-w-9">
             <MapPin size={22}/>
             <div className="h-6 overflow-hidden">Noida</div>

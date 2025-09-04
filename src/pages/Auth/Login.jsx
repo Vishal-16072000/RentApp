@@ -79,7 +79,7 @@ export default function Login() {
       {/* Background */}
       <div className="flex flex-col min-h-screen bg-gradient-to-br from-blue-100 via-purple-200 to-pink-100">
       <nav className="flex items-center justify-between p-4 bg-blue-600 text-white shadow">
-        <h1 className="text-xl font-bold">RenterApp</h1>
+        <h1 className="text-xl font-bold">Nesto Rent</h1>
       </nav>
       <div className="flex justify-center items-center min-h-[80vh]">
         <div className=" backdrop-blur-xl p-8 md:min-w-96 w-80 bg-white/40 rounded-2xl">

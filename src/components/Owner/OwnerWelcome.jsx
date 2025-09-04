@@ -24,7 +24,7 @@ export default function OwnerWelcome() {
     "📊 Full payment info on dashboard",
     "🛏 Room-wise tenant & occupancy details",
     "📄 Agreements & Aadhar stored safely",
-    "🛠 Maintenance handled by RentApp",
+    "🛠 Maintenance handled by Nesto Rent",
     "🚀 Insights to boost your revenue",
     "🔔 Smart notifications & alerts",
   ];
@@ -36,7 +36,7 @@ export default function OwnerWelcome() {
           🌟 Welcome, Property Owner! 🌟
         </h1>
         <p className="text-gray-700 text-center text-sm">
-          Manage your rental properties effortlessly & securely with RentApp
+          Manage your rental properties effortlessly & securely with Nesto Rent
         </p>
 
         {/* Facilities Grid */}
